@@ -12,6 +12,7 @@
   <img align="center" alt="MatheusF-Cruz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MatheusF-Cruz-Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="MatheusF-Cruz-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MatheusF-Cruz-GraphQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
  
 </div>
  
