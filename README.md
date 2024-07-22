@@ -17,9 +17,5 @@
 <div> 
   <a href = "mailto:mth.ferreiradc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-ferreira-da-cruz-65400815b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![snake gif](https://github.com/MatheusF-Cruz/MatheusF-Cruz/blob/output/github-contribution-grid-snake.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusF-Cruz&show_icons=true&theme=transparent)
- 
 </div>
 
