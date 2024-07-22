@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Ferreira
  <div>
   <a href="https://github.com/MatheusF-Cruz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusF-Cruz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusF-Cruz&show_icons=true&theme=vision-friendly-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF-Cruz&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
